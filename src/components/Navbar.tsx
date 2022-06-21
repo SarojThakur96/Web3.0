@@ -23,7 +23,7 @@ const Navbar = () => {
         })}
         <li className="bg-[#2952e3] px-7 py-2 mx-4 rounded-full cursor-pointer hover:bg-[#2546bd]">
           {" "}
-          Login{" "}
+          Logout{" "}
         </li>
       </ul>
 
