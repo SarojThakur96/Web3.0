@@ -8,11 +8,11 @@ import Welcome from "./components/Welcome";
 
 const App = () => (
  
-   <div className="min-h-screen">
-      <div className="gradient-bg-welcome">
+   <div className="min-h-screen bg-gray-700">
+     
           <Navbar/>
           <Welcome/>
-        </div>
+        
 
         <Services/>
          <Transactions/>
